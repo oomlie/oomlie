@@ -1,4 +1,4 @@
-# Parker Wunderlich 👋
+# Parker Wunderlich
 
 IT Support & Systems Administration Professional based in Washington, D.C.
 
@@ -11,8 +11,8 @@ IT Support & Systems Administration Professional based in Washington, D.C.
 ### 🛠️ Core Focus & Technical Expertise
 
 - **Systems & Identity Administration:** Microsoft 365, Active Directory, Okta, Intune (Windows Autopilot, compliance, profile management), Entra ID, Linux & Windows Server.
-- **AI & Automation Infrastructure:** Multi-account AI model gateway & proxy routing (`route.daze.lol`), web scraping & structured data extraction (`crawl.daze.lol`), local LLM inference gateways, and AI agent workflows.
-- **Support & Operations:** Tier 1/2 IT Helpdesk, incident resolution within SLA targets, Jira, Microsoft Teams, asset lifecycle tracking, hardware imaging.
+- **AI & Automation Infrastructure:** Experimenting with AI model gateway & routing, web scraping & structured data extraction, local LLM inference gateways, and AI agent workflows, and harness development.
+- **Support & Operations:** Tier 1/2 IT Helpdesk, incident resolution within SLA targets, Jira, Microsoft Teams, asset lifecycle tracking, hardware imaging, network debugging and testing.
 - **Audiovisual & Event Production:** Hybrid event stream production, Logitech AV systems, Microsoft Teams/Zoom meetings, live audio engineering & guest speaker direction.
 - **Self-Hosted Infrastructure:** Architecting personal cloud platforms on NixOS with rootless Podman containers, Cloudflare Zero Trust Tunnels, and Access SSO.
 
