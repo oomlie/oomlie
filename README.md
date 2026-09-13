@@ -3,8 +3,6 @@
 IT Support & Systems Administration Professional based in Washington, D.C.
 
 🌐 **Personal Site:** [daze.lol](https://daze.lol)  
-📄 **Resume:** [resume.daze.lol](https://resume.daze.lol)  
-💼 **LinkedIn:** [linkedin.com/in/parkerwunderlich](https://linkedin.com/in/parkerwunderlich)  
 
 ---
 
