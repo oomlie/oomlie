@@ -1,21 +1,3 @@
-
-
-IT Support & Systems Administration Professional based in Washington, D.C.
-
-🌐 **Personal Site:** [daze.lol](https://daze.lol)  
-
----
-
-### 🛠️ Core Focus & Technical Expertise
-
-- **Systems & Identity Administration:** Microsoft 365, Active Directory, Okta, Intune (Windows Autopilot, compliance, profile management), Entra ID, Linux & Windows Server.
-- **AI & Automation Infrastructure:** Experimenting with AI model gateway & routing, web scraping & structured data extraction, local LLM inference gateways, and AI agent workflows, and harness development.
-- **Support & Operations:** Tier 1/2 IT Helpdesk, incident resolution within SLA targets, Jira, Microsoft Teams, asset lifecycle tracking, hardware imaging, network debugging and testing.
-- **Audiovisual & Event Production:** Hybrid event stream production, Logitech AV systems, Microsoft Teams/Zoom meetings, live audio engineering & guest speaker direction.
-- **Self-Hosted Infrastructure:** Architecting personal cloud platforms on NixOS with rootless Podman containers, Cloudflare Zero Trust Tunnels, and Access SSO.
-
----
-
 ### 📂 Featured Repositories & Projects
 
 - 📄 **[resume](https://github.com/oomlie/resume)** — Source YAML, Typst template, and automated web build for [resume.daze.lol](https://resume.daze.lol).
